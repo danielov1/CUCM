@@ -1,4 +1,4 @@
-1. Install the following libraries.
+1. Install the following libraries:
   - paramiko
   - time
   - os
